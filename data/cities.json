@@ -1,0 +1,64 @@
+{
+  "cities": [
+    {
+      "id": "c1f8",
+      "cityName": "Lagunaseca",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-08-30T08:28:54.416Z",
+      "notes": "",
+      "position": {
+        "lat": "40.509622849596695",
+        "lng": "-1.9995117187500002"
+      }
+    },
+    {
+      "id": "50e9",
+      "cityName": "San Llorente",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-08-30T08:28:57.874Z",
+      "notes": "",
+      "position": {
+        "lat": "41.705728515237524",
+        "lng": "-4.086914062500001"
+      }
+    },
+    {
+      "id": "437f",
+      "cityName": "Valdefresno",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-08-30T08:31:11.311Z",
+      "notes": "",
+      "position": {
+        "lat": "42.60566321006408",
+        "lng": "-5.520629882812501"
+      }
+    },
+    {
+      "id": "2176",
+      "cityName": "Castello de la Plana",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-08-30T08:31:39.698Z",
+      "notes": "",
+      "position": {
+        "lat": "40.01512582498672",
+        "lng": "-0.03896713256835938"
+      }
+    },
+    {
+      "id": "13f9",
+      "cityName": "Castello de la Plana",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-08-30T10:09:16.651Z",
+      "notes": "",
+      "position": {
+        "lat": "40.013022254814686",
+        "lng": "-0.025749206542968753"
+      }
+    }
+  ]
+}
